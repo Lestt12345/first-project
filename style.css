@@ -1,30 +1,50 @@
 .tittle {
-    font-size: 45px;
+    color: white;
+    position: sticky;
+    top: 0;
     text-align: center;
-    color: blueviolet;
-}
-.punkt {
-    font-size: 35px;
-    text-align: start;
-    color: grey;
-}
-.arial {
-    font-size: 30px;
+    background-color: rgb(26, 26, 26);
     font-family: Arial, Helvetica, sans-serif;
 }
-.cardblack {
-    font-size: 30px;
+.tittletwo {
     color: black;
-    background-color: rgba(128, 128, 128, 0.3);
-    font-size: 60px;
+    background-color: orange;
+    border-radius: 10%;
+    font-family: Arial, Helvetica, sans-serif;
 }
-.cardred {
-    font-size: 30px;
-    color: rgb(124, 0, 0);
-    background-color: rgba(128, 128, 128, 0.3);
-    font-size: 60px;
+.menu {
+    position: sticky;
+    margin-left: -93%;
+    top: 0;
+}
+.white {
+    color: white;
+    text-decoration: none;
 
 }
-.tasktwo {
-    font-size: 60px;
+.center {
+    text-align: center;
+}
+.background {
+    background-color: black;
+}
+.text {
+    font-size: 35px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menutwo {
+    text-align: center;
+    margin-top: 2%;
+    font-size: 40px;
+}
+.menuthree {
+    text-align: center;
+    margin-top: 20%;
+    font-size: 40px;
+}
+.menufour {
+    text-align: center;
+    margin-top: 2%;
+    font-size: 40px;
 }
